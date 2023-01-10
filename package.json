@@ -1,6 +1,7 @@
 {
-	"author": "Ignacio Correa",
+	
 	"name": "fcc-learn-npm-package-json",
+	"author": "Ignacio Correa",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
